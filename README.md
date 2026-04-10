@@ -20,7 +20,6 @@
 <p align="left">
 <a href="https://github.com/radwa-mohamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="radwa-mohamd" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/radwa-mohammed18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Radwa Mohammed" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/Radwa-Mohamed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Radwa-Mohamed" height="30" width="40" /></a>
 <a href="https://kaggle.com/radwa18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="radwa18" height="30" width="40" /></a>
 <a href="https://fb.com/Radwa Mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Radwa Mohammed" height="30" width="40" /></a>
 <a href="https://instagram.com/_radwa.mohmd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_radwa.mohmd" height="30" width="40" /></a>
