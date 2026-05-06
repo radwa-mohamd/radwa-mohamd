@@ -14,8 +14,6 @@
 
 - 📫 How to reach me **radwamo186@gmail.com**
 
-- ⚡ Fun fact **I'm Funny, Cheerful , and so ambitious**
-
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1J5_YowQUbQT47vOYO0gAhINiFioVZAEe/view?usp=drive_link](https://drive.google.com/file/d/1J5_YowQUbQT47vOYO0gAhINiFioVZAEe/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
