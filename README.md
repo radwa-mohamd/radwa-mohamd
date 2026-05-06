@@ -2,9 +2,9 @@
 
 ### A passion data analyst 
 
-- 🔭 I'm currently working on **a data science and ML project**
+- 🔭 I'm currently working on **a data science and ML projects**
 
-- 🌱 I'm currently learning **Data science, data analysis, AI, and ML**
+- 🌱 I'm currently learning **Data Analysis, Data science, and ML**
 
 - 👯 I'm looking to collaborate on **more and more real world projects**
 
@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **radwamo186@gmail.com**
 
-- ⚡ Fun fact **I'm Funny, Cheerful , and so ambitious**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
